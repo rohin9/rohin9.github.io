@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Be My Valentine?</title>
   <style>
     * {
       box-sizing: border-box;
